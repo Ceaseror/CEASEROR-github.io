@@ -1,0 +1,33 @@
+body {
+    background-color:black;
+    width: 1350px;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 10px;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+p{
+	color:white;
+}
+h1{
+	color: red;
+}
+h2{
+	color: blue;
+}
+#one{
+	color: white;
+	font-weight: bold;
+}
+#two{
+	color: white;
+	font-weight:bold;
+}
+.one{
+	color: white;
+	font-weight:bold;
+}
